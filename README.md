@@ -1,7 +1,8 @@
 # Computer-Architecture-Simulation
 Class project dedicated to develop and optimize a particle simulation in C++. The program has been implemented in an aos and soa version.
 
-The program will take the following parameters for its correct execution:
+The program will take the following parameters for its correct execution:<br/>
+
  num_objects: integer number, greater or equal than 0, indicating the number of objects
 that will be simulated.
  num_iterations: integer number, greater or equal than 0, indicating the number of iterations (time steps) that will be simulated.
